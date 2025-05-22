@@ -15,7 +15,7 @@ By completing this project, I aim to understand how websites are structured. Itâ
 - Organizing files and using a proper **folder structure** for a web project  
 - Embedding images and links
 
-## Reflection (Optional â€“ after completing the project)
+## Completing the project
 
 After completing this project, I have a much better understanding of how web pages are built from the ground up. I can now confidently create basic websites and troubleshoot layout issues. This project also gave me a strong foundation in version control with Git.
 
